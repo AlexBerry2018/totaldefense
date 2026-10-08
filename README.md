@@ -134,3 +134,8 @@ Assets/Scripts/ECS/
   EcsSystems.cs         появление волн и однопоточные системы
   EcsJobsSystems.cs     системы и джобы на Jobs и Burst
 ```
+
+## Документы
+
+- ГДД: ссылка
+- Итоговый отчёт: ссылка
