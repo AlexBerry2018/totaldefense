@@ -74,8 +74,6 @@ ECS + Jobs + Burst, 289 169 врагов — 8 FPS:
 | ECS | `EcsGameManager` | галочка Use Jobs выключена |
 | ECS + Jobs + Burst | `EcsGameManager` | галочка Use Jobs включена |
 
-В поле Base Material должен быть назначен материал с шейдером Universal Render Pipeline/Lit и включённым GPU Instancing, иначе в сборке объекты будут розовыми.
-
 Текущая версия написана в первой строке панели в левом верхнем углу.
 
 ## Управление
